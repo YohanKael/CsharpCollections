@@ -1,0 +1,15 @@
+C:\Users\yohan\source\repos\CSharpCollections\CSharpCollections\bin\Debug\net7.0\CSharpCollections.exe
+C:\Users\yohan\source\repos\CSharpCollections\CSharpCollections\bin\Debug\net7.0\CSharpCollections.deps.json
+C:\Users\yohan\source\repos\CSharpCollections\CSharpCollections\bin\Debug\net7.0\CSharpCollections.runtimeconfig.json
+C:\Users\yohan\source\repos\CSharpCollections\CSharpCollections\bin\Debug\net7.0\CSharpCollections.dll
+C:\Users\yohan\source\repos\CSharpCollections\CSharpCollections\bin\Debug\net7.0\CSharpCollections.pdb
+C:\Users\yohan\source\repos\CSharpCollections\CSharpCollections\obj\Debug\net7.0\CSharpCollections.csproj.AssemblyReference.cache
+C:\Users\yohan\source\repos\CSharpCollections\CSharpCollections\obj\Debug\net7.0\CSharpCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\source\repos\CSharpCollections\CSharpCollections\obj\Debug\net7.0\CSharpCollections.AssemblyInfoInputs.cache
+C:\Users\yohan\source\repos\CSharpCollections\CSharpCollections\obj\Debug\net7.0\CSharpCollections.AssemblyInfo.cs
+C:\Users\yohan\source\repos\CSharpCollections\CSharpCollections\obj\Debug\net7.0\CSharpCollections.csproj.CoreCompileInputs.cache
+C:\Users\yohan\source\repos\CSharpCollections\CSharpCollections\obj\Debug\net7.0\CSharpCollections.dll
+C:\Users\yohan\source\repos\CSharpCollections\CSharpCollections\obj\Debug\net7.0\refint\CSharpCollections.dll
+C:\Users\yohan\source\repos\CSharpCollections\CSharpCollections\obj\Debug\net7.0\CSharpCollections.pdb
+C:\Users\yohan\source\repos\CSharpCollections\CSharpCollections\obj\Debug\net7.0\CSharpCollections.genruntimeconfig.cache
+C:\Users\yohan\source\repos\CSharpCollections\CSharpCollections\obj\Debug\net7.0\ref\CSharpCollections.dll
